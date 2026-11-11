@@ -1,6 +1,10 @@
 # PHP2Shell: Quick Cyber Update 🚨
 
-[![Watch on Facebook](https://img.shields.io/badge/▶%20Watch%20on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/100006015724701/videos/1001228402349456/)
+<p align="center">
+  <a href="https://www.facebook.com/100006015724701/videos/1001228402349456/">
+    <img src="https://img.shields.io/badge/▶%20Watch%20on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Watch on Facebook" height="80">
+  </a>
+</p>
 
 A 5-second awareness clip about **PHP2Shell**, a recently reported set of PHP vulnerabilities that could let attackers break into vulnerable website servers **without needing a password**.
 
