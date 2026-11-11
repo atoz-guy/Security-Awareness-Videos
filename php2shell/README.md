@@ -11,9 +11,9 @@ PHP powers millions of websites, including those built with **WordPress**, so sm
 | File | Size | Best for |
 |---|---|---|
 | [`php2shell_facebook_4x5.mp4`](php2shell_facebook_4x5.mp4) | 1080×1350 (4:5) | Facebook feed |
-📣 **See the post:** [Facebook](https://www.facebook.com/your-post-link)
-
 | [`php2shell_linkedin_1x1.mp4`](php2shell_linkedin_1x1.mp4) | 1080×1080 (1:1) | LinkedIn feed |
+
+📣 **See it live:** [Watch on Facebook](https://www.facebook.com/100006015724701/videos/1001228402349456/)
 
 Both clips are 5 seconds long and silent, because most people scroll with the sound off.
 
