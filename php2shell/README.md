@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/100006015724701/videos/1001228402349456/">
-    <img src="https://img.shields.io/badge/▶%20Watch%20on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Watch on Facebook" height="80">
+    <img src="https://img.shields.io/badge/▶%20Watch%20on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Watch on Facebook" width="560">
   </a>
 </p>
 

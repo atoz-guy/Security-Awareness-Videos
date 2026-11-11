@@ -13,7 +13,7 @@ You don't need to be a cybersecurity expert to take cybersecurity seriously. Oft
 <p align="center">
   <b>Latest: PHP2Shell</b><br><br>
   <a href="https://www.facebook.com/100006015724701/videos/1001228402349456/">
-    <img src="https://img.shields.io/badge/▶%20Watch%20on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Watch the PHP2Shell video on Facebook" height="80">
+    <img src="https://img.shields.io/badge/▶%20Watch%20on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Watch the PHP2Shell video on Facebook" width="560">
   </a>
 </p>
 
